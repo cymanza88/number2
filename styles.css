@@ -1,0 +1,62 @@
+header{
+    background-color: aqua;
+    color:#000080;
+    margin: 0px;
+    padding: 15px;
+    
+}
+p{
+    background-color: aqua;
+    color:#000080;
+    margin:10px;
+    padding:10px;
+}
+
+ul > li
+{
+    list-style-type: none;
+}
+div{
+    background-color: blue;
+    margin:50px;
+    padding:50px;
+
+}
+
+p2{
+    background-color: lightblue;
+    margin:25px;
+    padding: 20px;
+}
+
+p3{
+    background-color: lightskyblue;
+    margin:25px;
+    padding: 20px;
+}
+p4{
+    background-color: lightsteelblue;
+    margin:25px;
+    padding: 20px;
+}
+.box{
+    float: left;
+    width: 450px;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 10px;
+    border: 200px solid blue;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   margin:0px;
+   padding:10px;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
